@@ -1,0 +1,22 @@
+.bodyBackground
+{
+    background-image: url(/img/bg1\ \(1\).jpg);
+    background-position: center;
+    background-size: cover;
+}
+#mycANVAS
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+button{
+    background-color: #4caf50;
+    border: none;
+    color: white;
+    padding: 10px 42px;
+    font-size: 12px;
+}
+input{
+    margin-right: 20px;
+}
